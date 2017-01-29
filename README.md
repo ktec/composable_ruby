@@ -1,4 +1,4 @@
-# Lessons from Professor Frisby Introduces Composable J̶a̶v̶a̶s̶c̶r̶i̶p̶t̶ Ruby
+# Lessons from Professor Frisby Introduces Composable ~~Javascript~~ Ruby
 
 
 This is a collection of ruby scripts created as notes when following the wonderful "Professor Frisby Introduces Composable Javascript" series available for free on egghead.io:
